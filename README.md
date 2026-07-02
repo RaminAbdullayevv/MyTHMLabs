@@ -10,3 +10,6 @@
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
+
+
+https://hackerdna.com/
