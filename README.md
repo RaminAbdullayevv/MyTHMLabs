@@ -5,7 +5,7 @@
 | Ad | Link | Növ | Çətinlik | Status |
 |----|------|-----|----------|--------|
 | Intro To Research | https://tryhackme.com/room/introtoresearch | Öyrənmə | Easy | ✅ |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium | 🔄 |
+| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium | ✅ |
 | Nmap Basic Port Scans | https://tryhackme.com/room/nmap02 | Öyrənmə | Easy  | 🔄 |
 | Nmap Advanced Port Scans | https://tryhackme.com/room/nmap03 | Öyrənmə | Medium  | 🔄 |
 | Nmap Post Port Scans | https://tryhackme.com/room/nmap04 | Öyrənmə | Medium  | 🔄 |
