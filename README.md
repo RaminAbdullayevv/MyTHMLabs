@@ -4,7 +4,7 @@
 
 | Ad | Link | Növ | Çətinlik | Status |
 |----|------|-----|----------|--------|
-| | | CTF / Öyrənmə | Easy / Medium / Hard | ✅ / 🔄 |
+| Intro To Research | https://tryhackme.com/room/introtoresearch | Öyrənmə | Easy | ✅ |
 | | | | | |
 | | | | | |
 
