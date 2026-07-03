@@ -13,7 +13,7 @@
 | Networking Essentials | https://tryhackme.com/room/networkingessentials | Öyrənmə | Easy  | ✅ |
 | Networking Secure Protocols | https://tryhackme.com/room/networkingsecureprotocols | Öyrənmə | Easy  | 🔄 |
 | Intro to LAN | https://tryhackme.com/room/introtolan | Öyrənmə | Easy  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+| Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 | Öyrənmə | Easy  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
