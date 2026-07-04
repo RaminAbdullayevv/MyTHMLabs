@@ -22,7 +22,7 @@
 | Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | 🔄 |
 | Inside a Computer System | https://tryhackme.com/room/insideacomputer | Öyrənmə | Easy  | ✅ |
 | Computer Types | https://tryhackme.com/room/computertypes | Öyrənmə | Easy  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+| Client-Server Basics | https://tryhackme.com/room/clientserverbasics | Öyrənmə | Easy  | ✅ |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
