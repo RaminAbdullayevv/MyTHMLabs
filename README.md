@@ -21,10 +21,10 @@
 | Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | 🔄 |
 | Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | 🔄 |
 | Inside a Computer System | https://tryhackme.com/room/insideacomputer | Öyrənmə | Easy  | ✅ |
-| Computer Types | https://tryhackme.com/room/computertypes | Öyrənmə | Easy  | 🔄 |
+| Computer Types | https://tryhackme.com/room/computertypes | Öyrənmə | Easy  | ✅ |
 | Client-Server Basics | https://tryhackme.com/room/clientserverbasics | Öyrənmə | Easy  | ✅ |
-| Virtualisation Basics | https://tryhackme.com/room/virtualisationbasics  | Öyrənmə | Easy  | 🔄 |
-| Cloud Computing Fundamentals | https://tryhackme.com/room/cloudcomputingfundamentals | Öyrənmə | Easy  | 🔄 |
+| Virtualisation Basics | https://tryhackme.com/room/virtualisationbasics  | Öyrənmə | Easy  | ✅ |
+| Cloud Computing Fundamentals | https://tryhackme.com/room/cloudcomputingfundamentals | Öyrənmə | Easy  | ✅ |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
