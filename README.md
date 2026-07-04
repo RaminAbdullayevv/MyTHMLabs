@@ -16,8 +16,8 @@
 | Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 | Öyrənmə | Easy  | 🔄 |
 | Networking Concepts | https://tryhackme.com/room/networkingconcepts | Öyrənmə | Easy  | 🔄 |
 | Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+| HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | 🔄 |
+| Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
