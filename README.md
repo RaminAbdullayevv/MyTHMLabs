@@ -26,10 +26,10 @@
 | Virtualisation Basics | https://tryhackme.com/room/virtualisationbasics  | Öyrənmə | Easy  | ✅ |
 | Cloud Computing Fundamentals | https://tryhackme.com/room/cloudcomputingfundamentals | Öyrənmə | Easy  | ✅ |
 | Windows CLI Basics | https://tryhackme.com/room/windowsclibasics | Öyrənmə | Easy  | ✅ |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+| Guided Pentest: Infrastructure | https://tryhackme.com/room/guidedpentestinfrastructure | Öyrənmə | Easy  | 🔄 |
+| Dive Into Pentesting | https://tryhackme.com/room/diveintopentesting | Öyrənmə | Easy  | 🔄 |
+| Cyber Kill Chain | https://tryhackme.com/room/cyberkillchain | Öyrənmə | Medium  | 🔄 |
+| Penetration Testing Frameworks | https://tryhackme.com/room/penetrationtestingframeworks | Öyrənmə | Easy  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
