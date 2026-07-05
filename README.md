@@ -18,14 +18,14 @@
 | Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
 | HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | 🔄 |
 | Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | 🔄 |
-| Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | 🔄 |
+| Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | ✅ |
 | Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | 🔄 |
 | Inside a Computer System | https://tryhackme.com/room/insideacomputer | Öyrənmə | Easy  | ✅ |
 | Computer Types | https://tryhackme.com/room/computertypes | Öyrənmə | Easy  | ✅ |
 | Client-Server Basics | https://tryhackme.com/room/clientserverbasics | Öyrənmə | Easy  | ✅ |
 | Virtualisation Basics | https://tryhackme.com/room/virtualisationbasics  | Öyrənmə | Easy  | ✅ |
 | Cloud Computing Fundamentals | https://tryhackme.com/room/cloudcomputingfundamentals | Öyrənmə | Easy  | ✅ |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+|Windows CLI Basics | https://tryhackme.com/room/windowsclibasics | Öyrənmə | Easy  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
