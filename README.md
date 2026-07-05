@@ -33,7 +33,8 @@
 | Passive Reconnaissance | https://tryhackme.com/room/passiverecon | Öyrənmə | Easy  | ✅ |
 | Activ Reconnaissance | https://tryhackme.com/room/activerecon | Öyrənmə | Easy  | ✅ |
 | Guided Pentest: Web | https://tryhackme.com/room/guidedpentestweb | Öyrənmə | Easy  | ✅ |
-| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
+| Protocols and Servers | https://tryhackme.com/room/protocolsandservers | Öyrənmə | Easy  | 🔄 |
+| Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | 🔄 |
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
