@@ -9,14 +9,14 @@
 | Nmap Basic Port Scans | https://tryhackme.com/room/nmap02 | Öyrənmə | Easy  | ✅ |
 | Nmap Advanced Port Scans | https://tryhackme.com/room/nmap03 | Öyrənmə | Medium  | ✅ |
 | Nmap Post Port Scans | https://tryhackme.com/room/nmap04 | Öyrənmə | Medium  | ✅ |
-| Web Application Basics | https://tryhackme.com/room/webapplicationbasics | Öyrənmə | Easy  | 🔄 |
+| Web Application Basics | https://tryhackme.com/room/webapplicationbasics | Öyrənmə | Easy  | ✅ |
 | Networking Essentials | https://tryhackme.com/room/networkingessentials | Öyrənmə | Easy  | ✅ |
 | Networking Secure Protocols | https://tryhackme.com/room/networkingsecureprotocols | Öyrənmə | Easy  | 🔄 |
 | Intro to LAN | https://tryhackme.com/room/introtolan | Öyrənmə | Easy  | 🔄 |
 | Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 | Öyrənmə | Easy  | 🔄 |
 | Networking Concepts | https://tryhackme.com/room/networkingconcepts | Öyrənmə | Easy  | 🔄 |
 | Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
-| HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | 🔄 |
+| HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | ✅ |
 | Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | ✅ |
 | Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | ✅ |
 | Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | ✅ |
@@ -25,7 +25,7 @@
 | Client-Server Basics | https://tryhackme.com/room/clientserverbasics | Öyrənmə | Easy  | ✅ |
 | Virtualisation Basics | https://tryhackme.com/room/virtualisationbasics  | Öyrənmə | Easy  | ✅ |
 | Cloud Computing Fundamentals | https://tryhackme.com/room/cloudcomputingfundamentals | Öyrənmə | Easy  | ✅ |
-|Windows CLI Basics | https://tryhackme.com/room/windowsclibasics | Öyrənmə | Easy  | ✅ |
+| Windows CLI Basics | https://tryhackme.com/room/windowsclibasics | Öyrənmə | Easy  | ✅ |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
