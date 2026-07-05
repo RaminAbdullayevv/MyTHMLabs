@@ -40,6 +40,8 @@
 | Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | 🔄 |
 | Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | 🔄 |
 | Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | 🔄 |
+| Exploit Vulnerabilities | https://tryhackme.com/room/exploitingavulnerabilityv2 | Öyrənmə | Easy  | 🔄 |
+| Vulnerability Capstone | https://tryhackme.com/room/vulnerabilitycapstone | Öyrənmə | Easy  | 🔄 |
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
