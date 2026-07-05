@@ -30,8 +30,8 @@
 | Dive Into Pentesting | https://tryhackme.com/room/diveintopentesting | Öyrənmə | Easy  | 🔄 |
 | Cyber Kill Chain | https://tryhackme.com/room/cyberkillchain | Öyrənmə | Medium  | 🔄 |
 | Penetration Testing Frameworks | https://tryhackme.com/room/penetrationtestingframeworks | Öyrənmə | Easy  | 🔄 |
-| Passive Reconnaissance | https://tryhackme.com/room/passiverecon | Öyrənmə | Easy  | 🔄 |
-| Activ Reconnaissance | https://tryhackme.com/room/activerecon | Öyrənmə | Easy  | 🔄 |
+| Passive Reconnaissance | https://tryhackme.com/room/passiverecon | Öyrənmə | Easy  | ✅ |
+| Activ Reconnaissance | https://tryhackme.com/room/activerecon | Öyrənmə | Easy  | ✅ |
 | Guided Pentest: Web | https://tryhackme.com/room/guidedpentestweb | Öyrənmə | Easy  | ✅ |
 | Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 | Öyrənmə | Medium  | 🔄 |
 
