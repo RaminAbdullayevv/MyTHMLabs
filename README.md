@@ -17,9 +17,9 @@
 | Networking Concepts | https://tryhackme.com/room/networkingconcepts | Öyrənmə | Easy  | 🔄 |
 | Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
 | HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | 🔄 |
-| Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | 🔄 |
+| Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | ✅ |
 | Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | ✅ |
-| Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | 🔄 |
+| Windows Basics | https://tryhackme.com/room/windowsbasics | Öyrənmə | Easy  | ✅ |
 | Inside a Computer System | https://tryhackme.com/room/insideacomputer | Öyrənmə | Easy  | ✅ |
 | Computer Types | https://tryhackme.com/room/computertypes | Öyrənmə | Easy  | ✅ |
 | Client-Server Basics | https://tryhackme.com/room/clientserverbasics | Öyrənmə | Easy  | ✅ |
