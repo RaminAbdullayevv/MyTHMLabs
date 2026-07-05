@@ -36,6 +36,10 @@
 | Protocols and Servers | https://tryhackme.com/room/protocolsandservers | Öyrənmə | Easy  | 🔄 |
 | Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | 🔄 |
 | OSI Model | https://tryhackme.com/room/osimodelzi | Öyrənmə | Easy  | 🔄 |
+| Nmap | https://tryhackme.com/room/furthernmap | Öyrənmə | Easy  | 🔄 |
+| Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | 🔄 |
+| Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | 🔄 |
+| Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | 🔄 |
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
