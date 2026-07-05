@@ -12,7 +12,7 @@
 | Web Application Basics | https://tryhackme.com/room/webapplicationbasics | Öyrənmə | Easy  | ✅ |
 | Networking Essentials | https://tryhackme.com/room/networkingessentials | Öyrənmə | Easy  | ✅ |
 | Networking Secure Protocols | https://tryhackme.com/room/networkingsecureprotocols | Öyrənmə | Easy  | 🔄 |
-| Intro to LAN | https://tryhackme.com/room/introtolan | Öyrənmə | Easy  | 🔄 |
+| Intro to LAN | https://tryhackme.com/room/introtolan | Öyrənmə | Easy  | ✅ |
 | Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 | Öyrənmə | Easy  | 🔄 |
 | Networking Concepts | https://tryhackme.com/room/networkingconcepts | Öyrənmə | Easy  | 🔄 |
 | Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
