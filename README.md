@@ -11,11 +11,11 @@
 | Nmap Post Port Scans | https://tryhackme.com/room/nmap04 | Öyrənmə | Medium  | ✅ |
 | Web Application Basics | https://tryhackme.com/room/webapplicationbasics | Öyrənmə | Easy  | ✅ |
 | Networking Essentials | https://tryhackme.com/room/networkingessentials | Öyrənmə | Easy  | ✅ |
-| Networking Secure Protocols | https://tryhackme.com/room/networkingsecureprotocols | Öyrənmə | Easy  | 🔄 |
+| Networking Secure Protocols | https://tryhackme.com/room/networkingsecureprotocols | Öyrənmə | Easy  | ✅ |
 | Intro to LAN | https://tryhackme.com/room/introtolan | Öyrənmə | Easy  | ✅ |
 | Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 | Öyrənmə | Easy  | ✅ |
 | Networking Concepts | https://tryhackme.com/room/networkingconcepts | Öyrənmə | Easy  | ✅ |
-| Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | 🔄 |
+| Networking Core Protocols | https://tryhackme.com/room/networkingcoreprotocols | Öyrənmə | Easy  | ✅ |
 | HTTP in Detail | https://tryhackme.com/room/httpindetail | Öyrənmə | Easy  | ✅ |
 | Linux CLI Basics | https://tryhackme.com/room/linuxclibasics | Öyrənmə | Easy  | ✅ |
 | Operating Systems: Introduction | https://tryhackme.com/room/operatingsystemsintroduction | Öyrənmə | Easy  | ✅ |
@@ -37,11 +37,20 @@
 | Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | 🔄 |
 | OSI Model | https://tryhackme.com/room/osimodelzi | Öyrənmə | Easy  | 🔄 |
 | Nmap | https://tryhackme.com/room/furthernmap | Öyrənmə | Easy  | 🔄 |
-| Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | 🔄 |
-| Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | 🔄 |
-| Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | 🔄 |
+| Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | ✅ |
+| Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | ✅ |
+| Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | ✅ |
 | Exploit Vulnerabilities | https://tryhackme.com/room/exploitingavulnerabilityv2 | Öyrənmə | Easy  | 🔄 |
 | Vulnerability Capstone | https://tryhackme.com/room/vulnerabilitycapstone | Öyrənmə | Easy  | 🔄 |
+| Walking An Application | https://tryhackme.com/room/walkinganapp | Öyrənmə | Easy  | 🔄 |
+| How Websites Work | https://tryhackme.com/room/howwebsiteswork | Öyrənmə | Easy  | 🔄 |
+| Content Discovery | https://tryhackme.com/room/contentdiscoveryx | Öyrənmə | Easy  | 🔄 |
+| Linux Shells | https://tryhackme.com/room/linuxshells | Öyrənmə | Easy  | 🔄 |
+| Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | 🔄 |
+| Linux Fundamentals | https://tryhackme.com/module/linux-fundamentals | Öyrənmə | Easy  | 🔄 |
+| Web Server Attacks - I | https://tryhackme.com/room/webserverattacks | Öyrənmə | Medium  | 🔄 |
+| Web Server Attacks - II | https://tryhackme.com/room/webserverattacks2 | Öyrənmə | Medium  | 🔄 |
+| Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | 🔄 |
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
