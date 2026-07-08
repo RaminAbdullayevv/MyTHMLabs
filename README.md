@@ -51,6 +51,9 @@
 | Web Server Attacks - I | https://tryhackme.com/room/webserverattacks | Öyrənmə | Medium  | 🔄 |
 | Web Server Attacks - II | https://tryhackme.com/room/webserverattacks2 | Öyrənmə | Medium  | 🔄 |
 | Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | 🔄 |
+| Metasploit: Scanning and Exploitation | https://tryhackme.com/room/metasploitscanningandexploitation | Öyrənmə | Medium  | 🔄 |
+| Linux Privilege Escalation: Enumeration | https://tryhackme.com/room/linprivenum | Öyrənmə | Easy  | 🔄 |
+| Writing Pentest Reports | https://tryhackme.com/room/writingpentestreports | Öyrənmə | Easy  | 🔄 |
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
