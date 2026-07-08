@@ -54,6 +54,8 @@
 | Metasploit: Scanning and Exploitation | https://tryhackme.com/room/metasploitscanningandexploitation | Öyrənmə | Medium  | 🔄 |
 | Linux Privilege Escalation: Enumeration | https://tryhackme.com/room/linprivenum | Öyrənmə | Easy  | 🔄 |
 | Writing Pentest Reports | https://tryhackme.com/room/writingpentestreports | Öyrənmə | Easy  | 🔄 |
+| Penetration Testing Frameworks | https://tryhackme.com/room/penetrationtestingframeworks | Öyrənmə | Easy  | 🔄 |
+
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
 **Status:** ✅ Bitib · 🔄 Davam edir
