@@ -35,7 +35,7 @@
 | Guided Pentest: Web | https://tryhackme.com/room/guidedpentestweb | Öyrənmə | Easy  | ✅ |
 | Protocols and Servers | https://tryhackme.com/room/protocolsandservers | Öyrənmə | Easy  | 🔄 |
 | Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | 🔄 |
-| OSI Model | https://tryhackme.com/room/osimodelzi | Öyrənmə | Easy  | 🔄 |
+| OSI Model | https://tryhackme.com/room/osimodelzi | Öyrənmə | Easy  | ✅ |
 | Nmap | https://tryhackme.com/room/furthernmap | Öyrənmə | Easy  | 🔄 |
 | Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | ✅ |
 | Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | ✅ |
@@ -55,6 +55,7 @@
 | Linux Privilege Escalation: Enumeration | https://tryhackme.com/room/linprivenum | Öyrənmə | Easy  | 🔄 |
 | Writing Pentest Reports | https://tryhackme.com/room/writingpentestreports | Öyrənmə | Easy  | 🔄 |
 | Penetration Testing Frameworks | https://tryhackme.com/room/penetrationtestingframeworks | Öyrənmə | Easy  | 🔄 |
+| Packets & Frames | https://tryhackme.com/room/packetsframes | Öyrənmə | Easy  | 🔄 |
 
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
