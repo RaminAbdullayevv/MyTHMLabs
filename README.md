@@ -33,10 +33,10 @@
 | Passive Reconnaissance | https://tryhackme.com/room/passiverecon | Öyrənmə | Easy  | ✅ |
 | Activ Reconnaissance | https://tryhackme.com/room/activerecon | Öyrənmə | Easy  | ✅ |
 | Guided Pentest: Web | https://tryhackme.com/room/guidedpentestweb | Öyrənmə | Easy  | ✅ |
-| Protocols and Servers | https://tryhackme.com/room/protocolsandservers | Öyrənmə | Easy  | 🔄 |
-| Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | 🔄 |
+| Protocols and Servers | https://tryhackme.com/room/protocolsandservers | Öyrənmə | Easy  | ✅ |
+| Protocols and Servers 2 | https://tryhackme.com/room/protocolsandservers2 | Öyrənmə | Medium  | ✅ |
 | OSI Model | https://tryhackme.com/room/osimodelzi | Öyrənmə | Easy  | ✅ |
-| Nmap | https://tryhackme.com/room/furthernmap | Öyrənmə | Easy  | 🔄 |
+| Nmap | https://tryhackme.com/room/furthernmap | Öyrənmə | Easy  | ✅ |
 | Metasploit: Introduction | https://tryhackme.com/room/metasploitintro | Öyrənmə | Easy  | ✅ |
 | Metasploit: Exploitation | https://tryhackme.com/room/metasploitexploitation | Öyrənmə | Easy  | ✅ |
 | Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | ✅ |
@@ -56,6 +56,8 @@
 | Writing Pentest Reports | https://tryhackme.com/room/writingpentestreports | Öyrənmə | Easy  | 🔄 |
 | Penetration Testing Frameworks | https://tryhackme.com/room/penetrationtestingframeworks | Öyrənmə | Easy  | 🔄 |
 | Packets & Frames | https://tryhackme.com/room/packetsframes | Öyrənmə | Easy  | 🔄 |
+| Wireshark 101 | https://tryhackme.com/room/wireshark | Öyrənmə | Easy  | 🔄 |
+| Net Sec Challenge | https://tryhackme.com/room/netsecchallenge | Öyrənmə | Easy  | 🔄 |
 
 
 **Növ:** CTF (flag tapmaq) və ya Öyrənmə (konsepsiya/mövzu öyrənmə)
