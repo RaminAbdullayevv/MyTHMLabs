@@ -42,9 +42,9 @@
 | Metasploit: Meterpreter | https://tryhackme.com/room/meterpreter | Öyrənmə | Easy  | ✅ |
 | Exploit Vulnerabilities | https://tryhackme.com/room/exploitingavulnerabilityv2 | Öyrənmə | Easy  | 🔄 |
 | Vulnerability Capstone | https://tryhackme.com/room/vulnerabilitycapstone | Öyrənmə | Easy  | 🔄 |
-| Walking An Application | https://tryhackme.com/room/walkinganapp | Öyrənmə | Easy  | 🔄 |
-| How Websites Work | https://tryhackme.com/room/howwebsiteswork | Öyrənmə | Easy  | 🔄 |
-| Content Discovery | https://tryhackme.com/room/contentdiscoveryx | Öyrənmə | Easy  | 🔄 |
+| Walking An Application | https://tryhackme.com/room/walkinganapp | Öyrənmə | Easy  | ✅ |
+| How Websites Work | https://tryhackme.com/room/howwebsiteswork | Öyrənmə | Easy  | ✅ |
+| Content Discovery | https://tryhackme.com/room/contentdiscoveryx | Öyrənmə | Easy  | ✅ |
 | Linux Shells | https://tryhackme.com/room/linuxshells | Öyrənmə | Easy  | 🔄 |
 | Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | 🔄 |
 | Linux Fundamentals | https://tryhackme.com/module/linux-fundamentals | Öyrənmə | Easy  | 🔄 |
