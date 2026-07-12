@@ -46,7 +46,7 @@
 | How Websites Work | https://tryhackme.com/room/howwebsiteswork | Öyrənmə | Easy  | ✅ |
 | Content Discovery | https://tryhackme.com/room/contentdiscoveryx | Öyrənmə | Easy  | ✅ |
 | Linux Shells | https://tryhackme.com/room/linuxshells | Öyrənmə | Easy  | ✅ |
-| Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | 🔄 |
+| Modern Web Stacks | https://tryhackme.com/room/modernwebstacks | Öyrənmə | Easy  | ✅ |
 | Linux Fundamentals | https://tryhackme.com/module/linux-fundamentals | Öyrənmə | Easy  | 🔄 |
 | Web Server Attacks - I | https://tryhackme.com/room/webserverattacks | Öyrənmə | Medium  | 🔄 |
 | Web Server Attacks - II | https://tryhackme.com/room/webserverattacks2 | Öyrənmə | Medium  | 🔄 |
